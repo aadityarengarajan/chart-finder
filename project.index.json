@@ -1,0 +1,9 @@
+{
+	"name" : "Chart Finder",
+	"description" : "Charts Finder for AvBot",
+	"created" : "28/1/2021",
+	"completed" : "true",
+	"modules" : ["requests", "BeautifulSoup"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "CH-28012021-222257"
+}
